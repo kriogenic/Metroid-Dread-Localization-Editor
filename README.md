@@ -18,6 +18,7 @@ You now have the required file dumped for editing
 ### Loading your changes in Yuzu or any OS\CFW that has LayeredFS Support.
 I will be using Yuzu for this but the steps are very similar for others
 - Create a directory called **load** in **%appdata%\yuzu** directory
+- Then in the **load** directory create another with Metroid Dreads title ID **010093801237C000**
 - Inside that directory create a folder and give it a name (this is how Yuzu can enable \ disable different mods so give it a basic but descriptive name like *TextEdits*)
 - Then recreate the directory\file structure including the romfs directory
 - You should end up with your edited file in this directory **%appdata%\yuzu\load\010093801237C000\TextEdits\romfs\system\localization\us_engligh.txt**
