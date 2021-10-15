@@ -22,4 +22,5 @@ I will be using Yuzu for this but the steps are very similar for others
 - Inside that directory create a folder and give it a name (this is how Yuzu can enable \ disable different mods so give it a basic but descriptive name like *TextEdits*)
 - Then recreate the directory\file structure including the romfs directory
 - You should end up with your edited file in this directory **%appdata%\yuzu\load\010093801237C000\TextEdits\romfs\system\localization\us_engligh.txt**
+
 Now when you load Yuzu, right click Metroid Dread and select *Properties* you should see an Add-Ons tab which shows TextEdits (or what ever you named it) show up in that list, if it does you can load Metroid Dread and see if your edits have taken effect.
