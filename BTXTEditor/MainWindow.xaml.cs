@@ -1,4 +1,8 @@
-﻿using Microsoft.Win32;
+﻿/// Created by Kriogenic to edit the text of Metroid Dread - 15/10/2021
+
+
+
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
